@@ -30,19 +30,11 @@ I have experience creating a wide range of custom features, including:
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-## :rocket: Featured Projects
 
-Here are some of the projects I've worked on :
-
-* :robot: **[Aegis - Bot](https://github.com/Kazux7/Aegis-DiscordBot)** : A custom Discord bot featuring advanced moderation, a ticket system, and an economy tracker. Built with Node.js and MongoDB.
-* 🎵 **[Carpxs - Bot](https://github.com/Kazux7/Carpxs-Music-Bot)** : A powerful Discord music bot that allows servers to play and manage music directly from voice channels. Includes queue management, playback controls, and a smooth listening experience for communities.
-* :video_game: **[fivem-custom-announcer](https://github.com/Kazux7/fivem-custom-announcer.git)** : A sleek, customizable NUI announcer script for FiveM using Lua, HTML, and CSS. 
-
-*(Note: Some of my client work is private, but I can provide demonstrations upon request!)*
 
 ## :mailbox: Let's work together!
 Are you looking for a developer for a bot commission? Let's discuss how I can help with your projects.
-- **Discord:** `11.commandements`
+- **Discord:** `tebex.js`
 - **Email:** `Kazu.develloppement@gmail.com`
 
 ---
