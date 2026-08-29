@@ -38,6 +38,5 @@ I build fully custom Discord bots: no templates, no recycled code — every proj
 
 Got a bot or website project in mind? Reach out and let's talk.
 
-- **Discord:** `your_tag`
-- **Site:** `your-site.com`
-- **GitHub:** `github.com/your-handle`
+- **Discord:** `tebex.js`
+- **GitHub:** `github.com/Kazux7`
